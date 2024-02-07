@@ -1,0 +1,51 @@
+Order ID,Book Name,Category,Sub-Category,Amount,Quantity,Total sales,Date,Year
+1,The Great Gatsby,Literature,Fiction,50,3,150,01 January 2023,2023
+2,The Origin of Species,Science,Biology,35,2,70,05 January 2023,2023
+3,World History,History,General,28,1,28,12 January 2023,2023
+4,The Power of Now,Self-Help,Spirituality,46,4,184,18 February 2023,2023
+5,Art Through the Ages,Art,History of Art,68,5,340,24 March 2023,2023
+6,To Kill a Mockingbird,Literature,Fiction,22,2,44,30 April 2023,2023
+7,The Catcher in the Rye,Literature,Fiction,56,3,168,06 May 2023,2023
+8,A Brief History of Time,Science,Astrophysics,40,2,80,12 June 2023,2023
+9,Sapiens,History,Anthropology,30,1,30,18 July 2023,2023
+10,How to Win Friends and Influence People,Self-Help,Personal Development,49,4,196,24 August 2023,2023
+11,The Starry Night,Art,Painting,62,5,310,30 September 2023,2023
+12,1984,Literature,Dystopian,19,2,38,06 October 2023,2023
+13,The Alchemist,Literature,Fiction,53,3,159,12 November 2023,2023
+14,Cosmos,Science,Astronomy,38,2,76,18 December 2023,2023
+15,A People's History of the United States,History,General,30,1,30,24 January 2023,2023
+16,Atomic Habits,Self-Help,Personal Development,43,4,172,24 January 2023,2023
+17,The Birth of Venus,Art,Art History,65,5,325,06 March 2023,2023
+18,Pride and Prejudice,Literature,Romance,20,2,40,12 April 2023,2023
+19,To the Lighthouse,Literature,Modernist,59,3,177,18 May 2023,2023
+20,The Elegant Universe,Science,Physics,42,2,84,24 June 2023,2023
+21,A People's History of the World,History,General,33,1,33,30 July 2023,2023
+22,The 7 Habits of Highly Effective People,Self-Help,Personal Development,51,4,204,06 August 2023,2023
+23,Starry Nights and Van Gogh,Art,Painting,70,5,350,12 September 2023,2023
+24,Animal Farm,Literature,Satire,25,2,50,18 October 2023,2023
+25,The Brothers Karamazov,Literature,Classic,57,3,171,24 November 2023,2023
+26,The Code Book,Science,Cryptography,39,2,78,30 December 2023,2023
+27,Guns,History,Anthropology,31,1,31,05 January 2023,2023
+28,Deep Work,Self-Help,Productivity,48,4,192,11 February 2023,2023
+29,The Last Supper,Art,Painting,61,5,305,17 March 2023,2023
+30,Brave New World,Literature,Dystopian,17,2,34,23 April 2023,2023
+31,The Hitchhiker's Guide to the Galaxy,Literature,Science Fiction,54,3,162,29 May 2023,2023
+32,Einstein: His Life and Universe,Science,Biography,39,2,78,04 June 2023,2023
+33,American History,History,General,30,1,30,10 July 2023,2023
+34,The Subtle Art of Not Giving a F*ck,Self-Help,Personal Development,44,4,176,16 August 2023,2023
+35,Starry Night Over the Rhône,Art,Painting,66,5,330,22 September 2023,2023
+36,Sense and Sensibility,Literature,Romance,22,2,44,28 October 2023,2023
+37,The Selfish Gene,Science,Evolutionary Biology,58,3,174,03 December 2023,2023
+38,The Art of War,Philosophy,Military Strategy,40,2,80,08 January 2023,2023
+39,The Wright Brothers,History,Biography,32,1,32,14 February 2023,2023
+40,Think and Grow Rich,Self-Help,Personal Finance,49,4,196,22 March 2023,2023
+41,The Persistence of Memory,Art,Painting,62,5,310,28 April 2023,2023
+42,The Picture of Dorian Gray,Literature,Gothic Fiction,19,2,38,04 May 2023,2023
+43,Astrophysics for Young People in a Hurry,Science,Astrophysics,54,3,162,10 June 2023,2023
+44,The Silk Roads,History,World History,37,2,74,16 July 2023,2023
+45,The 5 Second Rule,Self-Help,Personal Development,29,1,29,22 August 2023,2023
+46,Starry Night,Art,Painting,43,4,172,28 September 2023,2023
+47,Emma,Literature,Classic,65,5,325,03 November 2023,2023
+48,Sapiens: A Graphic History,Science,Anthropology,20,2,40,09 December 2023,2023
+49,The History of Philosophy,Philosophy,History,56,3,168,15 January 2023,2023
+50,The Lean Startup,Business,Entrepreneurship,39,2,78,21 February 2023,2023
